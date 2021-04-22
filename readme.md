@@ -1,0 +1,1 @@
+Quick plotting tool for use with the TEMPer2 USB Thermometer
